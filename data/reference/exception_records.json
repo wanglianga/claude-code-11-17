@@ -1,0 +1,9 @@
+[
+  {
+    "exception_type": "sample_invalid",
+    "sample_no": "S-004",
+    "reason": "取样容器运输途中破损，样品受外包装污染，档案判定失效",
+    "source_ref": "QC-EXC-20261101-01",
+    "recorded_by": "sampling-team"
+  }
+]

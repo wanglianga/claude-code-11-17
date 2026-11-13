@@ -1,0 +1,114 @@
+{
+  "lab": "合作实验室B",
+  "received_date": "2026-11-05",
+  "records": [
+    {
+      "record_no": "RB-001",
+      "sample_no": "S-001",
+      "sampling_location": "1号仓-上层-东",
+      "analyte": "lead",
+      "method": "ICP-MS",
+      "reading": "0.35",
+      "unit": "mg/kg",
+      "dilution_factor": 1,
+      "detection_limit": 0.01,
+      "instrument_run": "RUN-2201"
+    },
+    {
+      "record_no": "RB-002",
+      "sample_no": "S-001",
+      "sampling_location": "1号仓-上层-东",
+      "analyte": "cadmium",
+      "method": "ICP-MS",
+      "reading": "0.001",
+      "unit": "mg/L",
+      "dilution_factor": 1,
+      "detection_limit": 0.0005,
+      "instrument_run": "RUN-2201"
+    },
+    {
+      "record_no": "RB-003",
+      "sample_no": "S-002",
+      "sampling_location": "1号仓-下层-西",
+      "analyte": "cadmium",
+      "method": "ICP-MS",
+      "reading": "0.040",
+      "unit": "mg/kg",
+      "dilution_factor": 1,
+      "detection_limit": 0.005,
+      "instrument_run": "RUN-2201"
+    },
+    {
+      "record_no": "RB-004",
+      "sample_no": "S-002",
+      "sampling_location": "1号仓-下层-西",
+      "analyte": "aflatoxin_b1",
+      "method": "HPLC-FLD",
+      "reading": "0.002",
+      "unit": "mg/kg",
+      "dilution_factor": 1,
+      "detection_limit": 0.001,
+      "instrument_run": "RUN-2202"
+    },
+    {
+      "record_no": "RB-005",
+      "sample_no": "S-002",
+      "sampling_location": "1号仓-下层-西",
+      "analyte": "mercury",
+      "method": "AFS",
+      "reading": "0.020",
+      "unit": "mg/kg",
+      "dilution_factor": 1,
+      "detection_limit": 0.005,
+      "instrument_run": "RUN-2203"
+    },
+    {
+      "record_no": "RB-006",
+      "sample_no": "S-101",
+      "sampling_location": "储罐T-2-取样阀",
+      "analyte": "lead",
+      "method": "ICP-MS",
+      "reading": "6",
+      "unit": "ug/L",
+      "dilution_factor": 5,
+      "detection_limit": 1,
+      "instrument_run": "RUN-2210"
+    },
+    {
+      "record_no": "RB-007",
+      "sample_no": "S-101",
+      "sampling_location": "储罐T-2-取样阀",
+      "analyte": "cadmium",
+      "method": "ICP-MS",
+      "reading": "0.010",
+      "unit": "mg/L",
+      "dilution_factor": 1,
+      "detection_limit": 0.002,
+      "instrument_run": "RUN-2210"
+    },
+    {
+      "record_no": "RB-008",
+      "sample_no": "S-102",
+      "sampling_location": "储罐T-3-取样阀",
+      "analyte": "lead",
+      "method": "ICP-MS",
+      "reading": "0.020",
+      "unit": "mg/L",
+      "dilution_factor": 1,
+      "detection_limit": 0.005,
+      "instrument_run": "RUN-2210"
+    },
+    {
+      "record_no": "RB-009",
+      "sample_no": "S-102",
+      "sampling_location": "储罐T-3-取样阀",
+      "analyte": "cadmium",
+      "method": "ICP-MS",
+      "reading": "0.005",
+      "unit": "mg/L",
+      "dilution_factor": 1,
+      "detection_limit": 0.001,
+      "instrument_run": "RUN-2210"
+    }
+  ]
+}

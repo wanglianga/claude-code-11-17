@@ -1,0 +1,14 @@
+record_no,sample_no,sampling_location,analyte,method,reading,unit,dilution_factor,detection_limit,instrument_run
+RA-001,S-001,1号仓-上层-东,lead,ICP-MS,18,ug/kg,10,0.5,RUN-1101
+RA-002,S-001,1号仓-上层-东,cadmium,ICP-MS,0.032,mg/kg,1,,RUN-1101
+RA-003,S-001,1号仓-上层-东,aflatoxin_b1,HPLC-FLD,ND,ug/kg,1,2,RUN-1102
+RA-004,S-001,1号仓-上层-东,mercury,AFS,<0.06,mg/kg,1,0.01,RUN-1103
+RA-005,S-002,1号仓-下层-西,lead,ICP-MS,0.25,mg/kg,1,,RUN-1101
+RA-006,S-002,1号仓-下层-西,cadmium,ICP-MS,0.040,,1,,RUN-1101
+RA-007,S-002,1号仓-下层-西,aflatoxin_b1,HPLC-FLD,ND,ug/kg,1,,RUN-1102
+RA-008,S-003,1号仓-中层-中,lead,ICP-MS,0.10,mg/kg,1,,RUN-1101
+RA-009,S-003,1号仓-中层-中,cadmium,ICP-MS,0.020,mg/kg,1,,RUN-1101
+RA-010,S-003,1号仓-中层-中,aflatoxin_b1,HPLC-FLD,0.001,mg/kg,1,,RUN-1102
+RA-011,S-003,1号仓-中层-中,mercury,AFS,0.010,mg/kg,1,,RUN-1103
+RA-012,S-004,运输车-尾部,lead,ICP-MS,0.05,mg/kg,1,,RUN-1101
+RA-013,S-002,1号仓-下层-西,mercury,AFS,NA,mg/kg,1,,RUN-1103

@@ -1,0 +1,72 @@
+[
+  {
+    "rule_code": "R-SOLID-PB",
+    "analyte": "lead",
+    "matrix": "solid",
+    "required": true,
+    "limit_type": "upper",
+    "limit_value": 0.2,
+    "limit_unit": "mg/kg",
+    "note": "本题随附演示规则（虚构限值，不代表真实行业标准）"
+  },
+  {
+    "rule_code": "R-SOLID-CD",
+    "analyte": "cadmium",
+    "matrix": "solid",
+    "required": true,
+    "limit_type": "upper",
+    "limit_value": 0.05,
+    "limit_unit": "mg/kg",
+    "note": "本题随附演示规则（虚构限值，不代表真实行业标准）"
+  },
+  {
+    "rule_code": "R-SOLID-AFB1",
+    "analyte": "aflatoxin_b1",
+    "matrix": "solid",
+    "required": true,
+    "limit_type": "upper",
+    "limit_value": 0.005,
+    "limit_unit": "mg/kg",
+    "note": "本题随附演示规则（虚构限值，不代表真实行业标准）"
+  },
+  {
+    "rule_code": "R-SOLID-HG",
+    "analyte": "mercury",
+    "matrix": "solid",
+    "required": true,
+    "limit_type": "upper",
+    "limit_value": 0.05,
+    "limit_unit": "mg/kg",
+    "note": "本题随附演示规则：用于验证区间横跨限值时交复核"
+  },
+  {
+    "rule_code": "R-SOLID-AS",
+    "analyte": "arsenic",
+    "matrix": "solid",
+    "required": false,
+    "limit_type": "upper",
+    "limit_value": 0.5,
+    "limit_unit": "mg/kg",
+    "note": "选检项目，不参与整批否决"
+  },
+  {
+    "rule_code": "R-LIQUID-PB",
+    "analyte": "lead",
+    "matrix": "liquid",
+    "required": true,
+    "limit_type": "upper",
+    "limit_value": 0.05,
+    "limit_unit": "mg/L",
+    "note": "本题随附演示规则（虚构限值，不代表真实行业标准）"
+  },
+  {
+    "rule_code": "R-LIQUID-CD",
+    "analyte": "cadmium",
+    "matrix": "liquid",
+    "required": true,
+    "limit_type": "upper",
+    "limit_value": 0.03,
+    "limit_unit": "mg/L",
+    "note": "本题随附演示规则（虚构限值，不代表真实行业标准）"
+  }
+]

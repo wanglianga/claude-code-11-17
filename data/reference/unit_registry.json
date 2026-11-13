@@ -1,0 +1,50 @@
+[
+  {
+    "unit_code": "mg/kg",
+    "unit_name": "毫克每千克",
+    "dimension": "mass_fraction",
+    "factor_to_canonical": 1.0,
+    "canonical_unit": "mg/kg",
+    "applicable_matrix": ["solid", "semi_solid"]
+  },
+  {
+    "unit_code": "ug/kg",
+    "unit_name": "微克每千克",
+    "dimension": "mass_fraction",
+    "factor_to_canonical": 0.001,
+    "canonical_unit": "mg/kg",
+    "applicable_matrix": ["solid", "semi_solid"]
+  },
+  {
+    "unit_code": "ng/g",
+    "unit_name": "纳克每克",
+    "dimension": "mass_fraction",
+    "factor_to_canonical": 0.001,
+    "canonical_unit": "mg/kg",
+    "applicable_matrix": ["solid", "semi_solid"]
+  },
+  {
+    "unit_code": "g/kg",
+    "unit_name": "克每千克",
+    "dimension": "mass_fraction",
+    "factor_to_canonical": 1000.0,
+    "canonical_unit": "mg/kg",
+    "applicable_matrix": ["solid", "semi_solid"]
+  },
+  {
+    "unit_code": "mg/L",
+    "unit_name": "毫克每升",
+    "dimension": "mass_concentration",
+    "factor_to_canonical": 1.0,
+    "canonical_unit": "mg/L",
+    "applicable_matrix": ["liquid"]
+  },
+  {
+    "unit_code": "ug/L",
+    "unit_name": "微克每升",
+    "dimension": "mass_concentration",
+    "factor_to_canonical": 0.001,
+    "canonical_unit": "mg/L",
+    "applicable_matrix": ["liquid"]
+  }
+]

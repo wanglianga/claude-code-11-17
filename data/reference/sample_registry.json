@@ -1,0 +1,62 @@
+[
+  {
+    "sample_no": "S-001",
+    "batch_no": "B20261101",
+    "supplier": "华东粮贸有限公司",
+    "material": "玉米原料",
+    "matrix": "solid",
+    "sampling_location": "1号仓-上层-东",
+    "sample_mass_g": 500.0,
+    "sample_volume_ml": null
+  },
+  {
+    "sample_no": "S-002",
+    "batch_no": "B20261101",
+    "supplier": "华东粮贸有限公司",
+    "material": "玉米原料",
+    "matrix": "solid",
+    "sampling_location": "1号仓-下层-西",
+    "sample_mass_g": 500.0,
+    "sample_volume_ml": null
+  },
+  {
+    "sample_no": "S-003",
+    "batch_no": "B20261101",
+    "supplier": "华东粮贸有限公司",
+    "material": "玉米原料",
+    "matrix": "solid",
+    "sampling_location": "1号仓-中层-中",
+    "sample_mass_g": null,
+    "sample_volume_ml": null
+  },
+  {
+    "sample_no": "S-004",
+    "batch_no": "B20261101",
+    "supplier": "华东粮贸有限公司",
+    "material": "玉米原料",
+    "matrix": "solid",
+    "sampling_location": "运输车-尾部",
+    "sample_mass_g": 480.0,
+    "sample_volume_ml": null
+  },
+  {
+    "sample_no": "S-101",
+    "batch_no": "B20261102",
+    "supplier": "江源萃取科技",
+    "material": "玉米提取液",
+    "matrix": "liquid",
+    "sampling_location": "储罐T-2-取样阀",
+    "sample_mass_g": null,
+    "sample_volume_ml": 250.0
+  },
+  {
+    "sample_no": "S-102",
+    "batch_no": "B20261102",
+    "supplier": "江源萃取科技",
+    "material": "玉米提取液",
+    "matrix": "liquid",
+    "sampling_location": "储罐T-3-取样阀",
+    "sample_mass_g": null,
+    "sample_volume_ml": null
+  }
+]

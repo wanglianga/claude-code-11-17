@@ -1,0 +1,2 @@
+record_no,sample_no,sampling_location,analyte,method,reading,unit,dilution_factor,detection_limit,instrument_run
+RA-001,S-001,1号仓-上层-东,lead,ICP-MS,15,ug/kg,10,0.5,RUN-1101-R
